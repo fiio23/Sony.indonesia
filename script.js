@@ -4,7 +4,7 @@ const productsData = [
         id: "wh1000xm5",
         name: "WH-1000XM5",
         description: "Headphone Peredam Bising Nirkabel",
-        image: "img/WH-1000XM6.webp",
+        image: "WH-1000XM6.webp",
         link: "product.html?id=wh1000xm5",
         category: "Headphone",
         price: "Rp 5.999.000",
